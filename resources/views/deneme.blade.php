@@ -1,3 +1,3 @@
-burası bir deneme sayfasıdır.
+Şimdi başlıyoruz.
 
 {{$isim}}
