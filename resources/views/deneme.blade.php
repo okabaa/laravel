@@ -1,3 +1,3 @@
-Şimdi başlıyoruz.
+Artık Başladık
 
 {{$isim}}
